@@ -1,3 +1,4 @@
+
 # Vietnamese Medical QA Dataset – Data Processing
 
 ## 1. Giới thiệu
@@ -228,3 +229,7 @@ Dataset này có thể dùng để:
 # 8. Tác giả
 
 Project xử lý dữ liệu cho **Vietnamese Medical QA Dataset**.
+=======
+# ai-in-healthcare-dataset
+Vietnamese medical question answering dataset for AI in healthcare.
+>>>>>>> a9086e9679fa5ad55bb80b1d1fb09a1aa70a9f15
